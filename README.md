@@ -21,7 +21,7 @@ const Contacts = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R3tr074&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="R3tr074" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3tr074&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3tr074&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
 </p>
 
 ### ☕ Get In Touch
