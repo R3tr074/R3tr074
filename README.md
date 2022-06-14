@@ -12,11 +12,15 @@
 
 </div>
 
-```js
-const Contacts = { 
- 👨‍💻Linkedin: "linkedin.com/in/jorgebuzeti",
- 📒Email: "jobuzetiuol123@gmail.com",
-}
+```c
+typedef struct {
+  char *discord;
+  char *linkedin;
+} contact;
+contact my = {
+  .discord = "ℝ𝟛𝕥𝕣𝟘 🔌#1337",
+  .linkedin = "linkedin.com/in/jorge-buzeti/"
+};
 ```
 
 <p align="center">
@@ -25,7 +29,7 @@ const Contacts = {
 </p>
 
 ### ☕ Get In Touch
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Buzeti-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgebuzeti/)](https://www.linkedin.com/in/jorgebuzeti/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Buzeti-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-buzeti/)](https://www.linkedin.com/in/jorge-buzeti/)
 [![Gmail Badge](https://img.shields.io/badge/-jobuzetiuol123@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jobuzetiuol123@gmail.com)
 [![HackTheBox Badge](https://img.shields.io/badge/-R3tr074-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://www.hackthebox.eu/profile/380585)](https://www.hackthebox.eu/profile/380585)
 
