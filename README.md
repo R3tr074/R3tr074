@@ -15,11 +15,11 @@
 ```c
 typedef struct {
   char *discord;
-  char *linkedin;
+  const char __user *twitter;
 } contact;
 contact my = {
   .discord = "ℝ𝟛𝕥𝕣𝟘 🔌#1337",
-  .linkedin = "linkedin.com/in/jorge-buzeti/"
+  .twitter = "@r3tr074"
 };
 ```
 
