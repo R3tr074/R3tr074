@@ -12,10 +12,12 @@
 typedef struct {
   char *discord;
   const char __user *twitter;
+  const char *blog;
 } contact;
 contact my = {
-  .discord = "ℝ𝟛𝕥𝕣𝟘 🔌#2438",
-  .twitter = "@r3tr074"
+  .discord = "r3tr074",
+  .twitter = "@r3tr074",
+  .blog = "retr0.zip"
 };
 ```
 
